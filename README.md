@@ -1,6 +1,6 @@
 # Sena Research Platform
 
-Sena Research is a platform designed to serve as an intermediary between students and university professors across all academic disciplines. Our mission is to deliver top-notch educational services, facilitating students in successfully navigating their academic endeavors.
+Sena Research is a platform designed to serve as an intermediary between students and university professors across all academic disciplines. The platform's mission is to deliver top-notch educational services, facilitating students in successfully navigating their academic endeavors.
 
 ## Features
 
