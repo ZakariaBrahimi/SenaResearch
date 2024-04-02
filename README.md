@@ -20,9 +20,12 @@ Sena Research is built using the following technologies:
 
 - **ReactJS:** A JavaScript library for building user interfaces, enabling dynamic and interactive user experiences.
 
-## Deployment
+- **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
 
-The Sena Research platform is hosted on CPanel, ensuring reliability and accessibility for users worldwide.
+- **Axios:** A promise-based HTTP client for making requests to servers, commonly used with JavaScript frontend frameworks like React.
+
+- **CPanel:** A web hosting control panel used for managing the hosting environment, ensuring reliability and accessibility for users worldwide.
+
 
 ## Getting Started
 
@@ -30,10 +33,9 @@ To get started with Sena Research, simply visit our website and sign up as eithe
 
 ## Contributions
 
-We welcome contributions from the open-source community to enhance and improve Sena Research. If you're interested in contributing, please check out our [GitHub repository](https://github.com/your-repo) and follow our contribution guidelines.
+I welcome contributions from the open-source community to enhance and improve Sena Research. If you're interested in contributing, please check out the email below and follow our contribution guidelines.
 
 ## Contact Us
 
-For any inquiries or feedback, feel free to reach out to us at [contact@sena-research.com](mailto:contact@sena-research.com).
+For any inquiries or feedback, feel free to reach out to us at [brahimi.zakaria.abdessamed@gmail.com](mailto:brahimi.zakaria.abdessamed@gmail.com).
 
-Thank you for choosing Sena Research to support your academic journey!
